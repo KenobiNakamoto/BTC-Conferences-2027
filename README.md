@@ -43,7 +43,7 @@ trust its dates:
 | April 22 – April 25 | **Swiss Bitcoin Conference 2027 (SBC27)** | Kreuzlingen, Switzerland |  |
 | May 6 – May 8 | **BTC Prague 2027** | Prague, Czech Republic |  |
 | May 11 – May 13 | **Mining Disrupt 2027** | Dallas (TX), USA |  |
-| May 28 | **Bitcoin Treasuries Conference UK 2027** | Bristol, England |  |
+| May 28 | **Bitcoin Treasuries Unconference UK 2027** | Bristol, England |  |
 | May 31 – June 2 | **Oslo Freedom Forum 2027** | Oslo, Norway |  |
 | July 15 – July 17 | **Bitcoin 2027** | Nashville (TN), USA |  |
 | August 26 – August 27 | **Bitcoin Asia 2027** | Hong Kong, China (HK) |  |
