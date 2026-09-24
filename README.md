@@ -7,7 +7,7 @@ Just the data. No app, no build step, no dependencies. The companion tracker app
 this repository is the 2027 list on its own, in the same column format, so it drops straight into
 that tracker or into any spreadsheet.
 
-*Compiled September 2026. 16 events have organiser-announced 2027 dates; the rest are
+*Compiled September 2026. 17 events have organiser-announced 2027 dates; the rest are
 annual events projected forward from their 2026 edition.*
 
 ---
@@ -19,15 +19,15 @@ trust its dates:
 
 | Status | Rows | What it means |
 |---|---|---|
-| `Confirmed` | 16 | The organiser has announced 2027 dates. `Verified` names the source. |
-| `Projected` | 113 | Annual event, 2027 not yet announced. **The dates are the 2026 edition's, carried forward** as a planning placeholder. Expect them to move by days or weeks. |
+| `Confirmed` | 17 | The organiser has announced 2027 dates. `Verified` names the source. |
+| `Projected` | 112 | Annual event, 2027 not yet announced. **The dates are the 2026 edition's, carried forward** as a planning placeholder. Expect them to move by days or weeks. |
 | `TBD` | 14 | Recurring event with no published month at all. |
 
 **Do not book travel against a `Projected` row.** It is a diary placeholder, not an announcement.
 
 ---
 
-## The 16 confirmed 2027 events
+## The 17 confirmed 2027 events
 
 | Dates | Conference | Location | |
 |---|---|---|---|
@@ -43,6 +43,7 @@ trust its dates:
 | April 22 – April 25 | **Swiss Bitcoin Conference 2027 (SBC27)** | Kreuzlingen, Switzerland |  |
 | May 6 – May 8 | **BTC Prague 2027** | Prague, Czech Republic |  |
 | May 11 – May 13 | **Mining Disrupt 2027** | Dallas (TX), USA |  |
+| May 28 | **Bitcoin Treasuries Conference UK 2027** | Bristol, England |  |
 | May 31 – June 2 | **Oslo Freedom Forum 2027** | Oslo, Norway |  |
 | July 15 – July 17 | **Bitcoin 2027** | Nashville (TN), USA |  |
 | August 26 – August 27 | **Bitcoin Asia 2027** | Hong Kong, China (HK) |  |
