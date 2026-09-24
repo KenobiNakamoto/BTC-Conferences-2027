@@ -1,6 +1,6 @@
 # BTC Conferences 2027
 
-A researched list of **144 Bitcoin, mining and adjacent conferences for 2027**, as a single CSV.
+A researched list of **143 Bitcoin, mining and adjacent conferences for 2027**, as a single CSV.
 
 Just the data. No app, no build step, no dependencies. The companion tracker app for the
 2026 season lives in [BTC-Conferences-2026](https://github.com/KenobiNakamoto/BTC-Conferences-2026);
@@ -20,7 +20,7 @@ trust its dates:
 | Status | Rows | What it means |
 |---|---|---|
 | `Confirmed` | 16 | The organiser has announced 2027 dates. `Verified` names the source. |
-| `Projected` | 114 | Annual event, 2027 not yet announced. **The dates are the 2026 edition's, carried forward** as a planning placeholder. Expect them to move by days or weeks. |
+| `Projected` | 113 | Annual event, 2027 not yet announced. **The dates are the 2026 edition's, carried forward** as a planning placeholder. Expect them to move by days or weeks. |
 | `TBD` | 14 | Recurring event with no published month at all. |
 
 **Do not book travel against a `Projected` row.** It is a diary placeholder, not an announcement.
@@ -63,8 +63,8 @@ either one.
 
 ## Coverage
 
-- **144 events** across **43 countries** and 9 regions
-- **122** Bitcoin-only; **20** with a mining or energy focus
+- **143 events** across **43 countries** and 9 regions
+- **122** Bitcoin-only; **21** with a mining or energy focus
 - By region: North America 49, Europe 43, Latin America 16, Oceania 10, TBD 7, Asia 7, Africa 6, Middle East 5, CIS/Eastern Europe 1
 
 ## Sources
