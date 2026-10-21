@@ -1,13 +1,13 @@
 # BTC Conferences 2027
 
-A researched list of **143 Bitcoin, mining and adjacent conferences for 2027**, as a single CSV.
+A researched list of **144 Bitcoin, mining and adjacent conferences for 2027**, as a single CSV.
 
 Just the data. No app, no build step, no dependencies. The companion tracker app for the
 2026 season lives in [BTC-Conferences-2026](https://github.com/KenobiNakamoto/BTC-Conferences-2026);
 this repository is the 2027 list on its own, in the same column format, so it drops straight into
 that tracker or into any spreadsheet.
 
-*Compiled September 2026. 17 events have organiser-announced 2027 dates; the rest are
+*Compiled September 2026. 18 events have organiser-announced 2027 dates; the rest are
 annual events projected forward from their 2026 edition.*
 
 ---
@@ -19,7 +19,7 @@ trust its dates:
 
 | Status | Rows | What it means |
 |---|---|---|
-| `Confirmed` | 17 | The organiser has announced 2027 dates. `Verified` names the source. |
+| `Confirmed` | 18 | The organiser has announced 2027 dates. `Verified` names the source. |
 | `Projected` | 112 | Annual event, 2027 not yet announced. **The dates are the 2026 edition's, carried forward** as a planning placeholder. Expect them to move by days or weeks. |
 | `TBD` | 14 | Recurring event with no published month at all. |
 
@@ -27,7 +27,7 @@ trust its dates:
 
 ---
 
-## The 17 confirmed 2027 events
+## The 18 confirmed 2027 events
 
 | Dates | Conference | Location | |
 |---|---|---|---|
@@ -40,6 +40,7 @@ trust its dates:
 | March 29 | **Bitcoin For Corporations (BFC) - Strategy World 2027** | Orlando (FL), USA |  |
 | March 29 – April 1 | **Strategy World 2027** | Orlando (FL), USA |  |
 | April 1 – April 4 | **BitBlockBoom! 2027** | Fort Worth (TX), USA |  |
+| April 2 – April 3 | **Sovereignty Summit 2027** | Queenstown, New Zealand |  |
 | April 22 – April 25 | **Swiss Bitcoin Conference 2027 (SBC27)** | Kreuzlingen, Switzerland |  |
 | May 6 – May 8 | **BTC Prague 2027** | Prague, Czech Republic |  |
 | May 11 – May 13 | **Mining Disrupt 2027** | Dallas (TX), USA |  |
@@ -64,9 +65,9 @@ either one.
 
 ## Coverage
 
-- **143 events** across **43 countries** and 9 regions
-- **122** Bitcoin-only; **21** with a mining or energy focus
-- By region: North America 49, Europe 43, Latin America 16, Oceania 10, TBD 7, Asia 7, Africa 6, Middle East 5, CIS/Eastern Europe 1
+- **144 events** across **43 countries** and 9 regions
+- **123** Bitcoin-only; **21** with a mining or energy focus
+- By region: North America 49, Europe 43, Latin America 16, Oceania 11, TBD 7, Asia 7, Africa 6, Middle East 5, CIS/Eastern Europe 1
 
 ## Sources
 
